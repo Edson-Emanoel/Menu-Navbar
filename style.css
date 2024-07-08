@@ -1,0 +1,12 @@
+.my-bg{
+    background-color: rgb(211, 211, 211);
+}
+
+.my-form input:focus {
+    box-shadow: none;
+    border: 1px solid black;
+}
+
+.my-space {
+    margin-left: 50px;
+}

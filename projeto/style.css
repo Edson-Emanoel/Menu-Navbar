@@ -1,0 +1,16 @@
+.my-form input:focus{
+    box-shadow: none;
+    border: none;
+}
+
+.my-form input{
+    border: none;
+}
+
+li .my-hover:hover{
+    border-bottom: 2px solid rgb(97, 97, 97);
+}
+
+.my-space {
+    margin-left: 50px;
+}
